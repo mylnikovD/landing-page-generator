@@ -12,5 +12,5 @@ The features of the project use base64 conversion of image and inline styling to
 `npm run build`
 
 http://github.com - automatic!
-[Link](https://jaicf01-dev-htz.lab.just-ai.com/)
+[Link](http://localhost:3000//)
 
