@@ -11,3 +11,6 @@ The features of the project use base64 conversion of image and inline styling to
 ## Build
 `npm run build`
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
