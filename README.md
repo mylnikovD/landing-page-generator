@@ -11,6 +11,7 @@ The features of the project use base64 conversion of image and inline styling to
 ## Build
 `npm run build`
 
-http://github.com - automatic!
-[Link](https://heroku.com/deploy)
+[Link to caila(no params)](http://caila-demo.lo.test-ai.net/deploy)
+[Link to caila(with params)](http://caila-demo.lo.test-ai.net/?template=https://github.com/just-ai/jaicf-jaicp-caila-template)
+
 
