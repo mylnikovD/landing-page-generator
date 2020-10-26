@@ -13,5 +13,7 @@ The features of the project use base64 conversion of image and inline styling to
 
 [Link to caila(no params)](https://jaicf01-dev-htz.lab.just-ai.com/deploy)
 [Link to caila(with params)](https://jaicf01-dev-htz.lab.just-ai.com/?template=https://github.com/just-ai/jaicf-jaicp-caila-template)
+[Link to caila(with params and to /deploy)](https://jaicf01-dev-htz.lab.just-ai.com/deploy?template=https://github.com/just-ai/jaicf-jaicp-caila-template)
+
 
 
